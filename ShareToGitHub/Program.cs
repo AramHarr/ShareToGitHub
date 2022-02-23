@@ -6,7 +6,7 @@ namespace ShareToGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Now we can share code! Yay...");
+            Console.WriteLine("Now we can share code! Yay");
         }
     }
 }
